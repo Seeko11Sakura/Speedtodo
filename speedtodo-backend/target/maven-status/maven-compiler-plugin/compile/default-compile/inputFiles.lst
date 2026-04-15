@@ -1,0 +1,16 @@
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\model\Task.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\model\TaskList.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\repository\TaskListRepository.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\controller\TaskController.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\model\FocusSession.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\model\Tag.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\service\TaskService.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\config\CorsConfig.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\controller\TaskListController.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\service\FocusSessionService.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\repository\TaskRepository.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\controller\TagController.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\controller\FocusSessionController.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\repository\FocusSessionRepository.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\repository\TagRepository.java
+D:\GoProjects\speedtodo-backend\src\main\java\com\speedtodo\SpeedtodoApplication.java

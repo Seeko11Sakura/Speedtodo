@@ -1,0 +1,16 @@
+com\speedtodo\controller\FocusSessionController.class
+com\speedtodo\model\Tag.class
+com\speedtodo\repository\TagRepository.class
+com\speedtodo\service\TaskService.class
+com\speedtodo\repository\TaskRepository.class
+com\speedtodo\model\TaskList.class
+com\speedtodo\config\CorsConfig.class
+com\speedtodo\SpeedtodoApplication.class
+com\speedtodo\model\FocusSession.class
+com\speedtodo\controller\TagController.class
+com\speedtodo\repository\TaskListRepository.class
+com\speedtodo\controller\TaskListController.class
+com\speedtodo\controller\TaskController.class
+com\speedtodo\service\FocusSessionService.class
+com\speedtodo\model\Task.class
+com\speedtodo\repository\FocusSessionRepository.class
